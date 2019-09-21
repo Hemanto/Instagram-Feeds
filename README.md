@@ -1,9 +1,9 @@
 # Instagram-Feeds
 Live instagram feeds
+For your website 
 
-
- for user id //    userId: '********', //https://codeofaninja.com/tools/find-instagram-user-id
+ For user id //    userId: '********', //https://codeofaninja.com/tools/find-instagram-user-id
 
  and 
 
-       accessToken: '************',//https://instagram.pixelunion.net/
+ accessToken: '************',//https://instagram.pixelunion.net/
